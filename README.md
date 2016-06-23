@@ -2,7 +2,7 @@
 
 Proxies enabled by this container:
 
-    /ont3        :  http://orr-ont:8080/ont
+    /ont3        :  http://orr-ont:8080/ont3
     /ont3sparql  :  http://agraph:10035/repositories/mmiorr
 
 
