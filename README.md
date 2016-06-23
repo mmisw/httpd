@@ -2,8 +2,8 @@
 
 Proxies enabled by this container:
 
-    /ont     :  http://orr-ont:8080/ont
-    /sparql  :  http://agraph:10035/repositories/mmiorr
+    /ont3        :  http://orr-ont:8080/ont
+    /ont3sparql  :  http://agraph:10035/repositories/mmiorr
 
 
 ## Build and push
